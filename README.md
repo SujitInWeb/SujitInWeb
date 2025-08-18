@@ -21,14 +21,12 @@ Hi, I'm Sujit. I'm a beginner and currently learning.
 </div>
 
 ### ✍️ Random Dev Quote
-<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
-<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=SujitInWeb&icon=0&color=0)](https://visitcount.itsvg.in)
 
