@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=95&section=header"/>
-
-## 🌟 About Me:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=95&section=header"/><br>
+# 🌟 About Me:
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
 Hi, I'm Sujit. I'm a beginner and currently learning. 
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SujitinWeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujitghosh07.official@gmail.com) 
 
 # 💻 Tech Stack:
