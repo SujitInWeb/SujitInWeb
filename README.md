@@ -1,4 +1,6 @@
-# 🌟 About Me:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=95&section=header"/>
+
+## 🌟 About Me:
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
 Hi, I'm Sujit. I'm a beginner and currently learning. 
 
@@ -32,5 +34,6 @@ Hi, I'm Sujit. I'm a beginner and currently learning.
 [![](https://visitcount.itsvg.in/api?id=SujitInWeb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
