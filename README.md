@@ -6,7 +6,9 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 
 
 # 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SujitinWeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujitghosh07.official@gmail.com) 
+
+<a href="https://x.com/SujitinWeb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="40" alt="x logo" /></a>
+<a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
 
 # 💻 Tech Stack:
 <div align="center">
@@ -45,9 +47,15 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 
 </div>
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
 
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 </div>
 
