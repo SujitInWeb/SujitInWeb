@@ -11,7 +11,7 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 <a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
 
 ## 💻 Tech Stack:
-<div align="center">
+<div align="left">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 <img width="12" />
