@@ -5,12 +5,12 @@
 Hi, I'm Sujit. I'm a beginner and currently learning react. 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 
-<a href="https://x.com/SujitinWeb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="40" alt="x logo" /></a>
+<a href="https://x.com/SujitinWeb" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="x logo" /></a>
 <a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,7 +35,7 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 
