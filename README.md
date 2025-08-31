@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=85&section=header"/><br>
-## 🌟 About Me:
+# 🌟 About Me:
 
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
 Hi, I'm Sujit. I'm a beginner and currently learning react. 
