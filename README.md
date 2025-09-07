@@ -2,7 +2,7 @@
 # 🌟 About Me:
 
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
-Hi, I'm Sujit. I'm a beginner and currently learning react. 
+Hi, I'm Sujit. I'm a beginner and currently learning. 
 
 
 ## 🌐 Socials:
