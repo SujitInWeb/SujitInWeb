@@ -1,21 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=85&section=header"/><br>
+
 # 🌟 About Me:
 
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
 Hi, I'm Sujit. I'm a beginner and currently learning. 
 
-
 ## 🌐 Socials:
 
-<div align="left">
 
 <a href="https://x.com/SujitinWeb" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="x logo" /></a>
 <a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
 
-</div>
+
+
+<div align="center">
 
 ## 💻 Tech Stack:
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="vercel logo" />
 <img width="12" />
@@ -41,13 +41,7 @@ Hi, I'm Sujit. I'm a beginner and currently learning.
 
 </div>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=SujitInWeb&theme=dark&hide_border=false)
-
-</div>
+---
 
 <div align="center">
 
