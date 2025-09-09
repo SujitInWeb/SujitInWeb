@@ -35,7 +35,7 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="vercel logo" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
 
 </div>
 
