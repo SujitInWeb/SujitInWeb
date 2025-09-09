@@ -33,7 +33,7 @@ Hi, I'm Sujit. I'm a beginner and currently learning react.
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="vercel logo" />
 
