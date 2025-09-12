@@ -4,10 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+Views)<br>
 Hi, I'm Sujit. I'm a beginner and currently learning react. 
 
+<div align="center">
+
 
 ## 🌐 Socials:
 
-<div align="left">
 
 <a href="https://x.com/SujitinWeb" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="x logo" /></a>
 <a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
