@@ -42,6 +42,8 @@
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 ## 📊 GitHub Stats:
