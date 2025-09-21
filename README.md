@@ -5,9 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=900&height=50%&lines=Hello+there+!;My+name+is+Sujit;I'm+a+beginner+and+currently+learning " alt="Typing SVG" /></a><br>
   
 </div> 
-
 <div align="center">
-
 
 ## 🌐 Socials:
 
