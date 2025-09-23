@@ -44,9 +44,11 @@
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
+<div align="center">
+
+
 ## 📊 GitHub Stats:
 
-<div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SujitInWeb&theme=dark&hide_border=false)
 
