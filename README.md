@@ -6,8 +6,6 @@
 <div align="center">
 
 ## 🌐 Socials:
-
-
 <a href="https://x.com/SujitinWeb" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="x logo" /></a>
 <a href="mailto:sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a> 
 
