@@ -66,7 +66,7 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+views&v=1)<br>
+![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+views&v=0)<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=70&section=footer"/>
 
