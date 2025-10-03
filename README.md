@@ -62,8 +62,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SujitInWeb&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 ![](https://komarev.com/ghpvc/?username=SujitInWeb&color=blue&style=flat-square&label=Profile+views&v=0)<br>
