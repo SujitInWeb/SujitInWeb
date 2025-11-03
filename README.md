@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#010409&height=30&section=header"/><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B66AC&height=80&section=header"/><br>
 
 
 
@@ -29,4 +29,4 @@
   <a href="sujitghosh07.official@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B66AC&height=80&section=footer"/>
