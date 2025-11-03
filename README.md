@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,java,vite,tailwind,python,git,github,c,vercel)
+![My Skills](https://skillicons.dev/icons?i=react,javascript,java,vite,tailwind,python,git,github,c,vercel)
 
 ---
 
