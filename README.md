@@ -3,9 +3,11 @@
     
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=1D9BF0&center=true&vCenter=true&width=900&height=50%&lines=Hello+there+!;My+name+is+Sujit;I'm+a+beginner+and+currently+learning " alt="Typing SVG" /></a><br>
-</div> 
+</div>
 
-<div align="center" style="padding:30px; background:#0f172a;">
+---
+
+<div align="center" style="padding:30px; background:#fff;">
   <p style="color:#9ca3af;">
     I’m a Computer Engineer with hands-on frontend development and a strong foundation in Python.
     I enjoy building clean, responsive web applications and exploring how AI and emerging technologies
