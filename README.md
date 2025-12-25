@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center" style="padding:30px; background:#fff;">
+<div align="center" style="padding:30px; background:black;">
   <p style="color:#9ca3af;">
     I’m a Computer Engineer with hands-on frontend development and a strong foundation in Python.
     I enjoy building clean, responsive web applications and exploring how AI and emerging technologies
