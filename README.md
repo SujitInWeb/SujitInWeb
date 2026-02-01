@@ -33,9 +33,6 @@ I love experimenting with new tools, improving UI/UX, and working on projects th
 
 
 
-
-
-
 <div align="center">
     
 ## 📊 GitHub Stats:
@@ -45,8 +42,6 @@ I love experimenting with new tools, improving UI/UX, and working on projects th
     
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
 
 
 
