@@ -31,6 +31,8 @@ I love experimenting with new tools, improving UI/UX, and working on projects th
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="x logo" alt ="tailwind logo" /> 
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="x logo" alt ="tailwind logo" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="x logo" alt ="tailwind logo" /> 
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="x logo" alt ="tailwind logo" /> 
+
 
 </div>
 
